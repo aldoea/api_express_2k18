@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"pro",
+				"productList"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"prd",
+				"productList"
+			],
+			[
+				"form",
+				"formLogin"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"user",
+				"userCtrl"
+			],
+			[
+				"decode",
+				"decodeToken"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"crea",
+				"createToken"
+			],
+			[
+				"au",
+				"authorization"
+			],
+			[
+				"sig",
+				"signIn"
+			],
+			[
+				"Use",
+				"Userschema"
+			],
+			[
+				"use",
+				"Userschema"
+			],
+			[
+				"prod",
+				"productCtrl"
+			],
+			[
+				"produc",
+				"productCtrl"
+			],
+			[
+				"product",
+				"productCtrl"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
 				"preci",
 				"preciofinal"
 			],
@@ -228,10 +312,6 @@
 				"include"
 			],
 			[
-				"pro",
-				"productos"
-			],
-			[
 				"proye",
 				"proyecto_id"
 			],
@@ -312,10 +392,6 @@
 				"array"
 			],
 			[
-				"produc",
-				"product_len"
-			],
-			[
 				"funct",
 				"function"
 			],
@@ -334,10 +410,6 @@
 			[
 				"pa",
 				"padding"
-			],
-			[
-				"fun",
-				"fun\tfunction …"
 			],
 			[
 				"div",
@@ -362,10 +434,6 @@
 			[
 				"ope",
 				"operator"
-			],
-			[
-				"if",
-				"if\tif …"
 			],
 			[
 				"com",
@@ -446,79 +514,29 @@
 			[
 				"ph",
 				"php"
-			],
-			[
-				"r",
-				"rgb"
-			],
-			[
-				"rgb",
-				"rgbcol"
-			],
-			[
-				"rg",
-				"rgbcol"
-			],
-			[
-				"box",
-				"box-sizing"
-			],
-			[
-				"bACK",
-				"background-image"
-			],
-			[
-				"backgro",
-				"background"
-			],
-			[
-				"bak",
-				"background"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"inli",
-				"inline-block"
-			],
-			[
-				"lis",
-				"list-style-image"
-			],
-			[
-				"tex",
-				"text-decoration"
-			],
-			[
-				"whi",
-				"width"
-			],
-			[
-				"bacl",
-				"background-color"
-			],
-			[
-				"apar",
-				"aparato_cardiovascular"
-			],
-			[
-				"tet",
-				"text"
-			],
-			[
-				"inl",
-				"inline-block"
-			],
-			[
-				"me",
-				"meta\tTag"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "models/user.js",
+			"settings":
+			{
+				"buffer_size": 1189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/user.js",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -560,10 +578,39 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express"
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/controllers",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/middlewares",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/models",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/routes",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/services",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/views",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/views/layouts"
 	],
 	"file_history":
 	[
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/middlewares/auth.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/app.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/routes/index.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/views/login.hbs",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/views/product.hbs",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/controllers/user.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/services/index.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/views/layouts/default.hbs",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/views/layouts/default.bhs",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/models/user.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/controllers/product.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/controllers/auth.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/config.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/index.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/movies_app/moviesapp/app.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/movies_app/moviesapp/routes/index.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/movies_app/moviesapp/routes/users.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/movies_app/moviesapp/views/index.ejs",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/movies_app/moviesapp/views/error.ejs",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/movies_app/moviesapp/bin/www",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/models/product.js",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/api_express/package.json",
 		"/C/xampp/htdocs/proyecto/clientes/header.php",
 		"/C/Users/AldoEscobar/Desktop/create table carrito_detalle(",
 		"/C/xampp/htdocs/proyecto/clientes/registrarse.php",
@@ -669,29 +716,7 @@
 		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/businesshistory",
 		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/clienteservidor.html",
 		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/gobiernoti.html",
-		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/httprfc",
-		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/index.html",
-		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/etiquetas.html",
-		"/C/Users/AldoEscobar/Documents/codigo-tramite-cambio-prop-versa",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/bookDetail.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/movieDetail.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/controllers/book_controller.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/dependencies/db.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/controllers/movie_controller.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/main.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/controllers/search_controller.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/movies.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/editBook.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/books.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/createMovie.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/editMovie.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/createBook.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/index.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/login.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/session.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/sync.py",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/accounts.html",
-		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/components/createMovie.html"
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/httprfc"
 	],
 	"find":
 	{
@@ -709,6 +734,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"config",
+			"Userschema",
+			"jwt",
+			"jwt}",
+			"jwt",
+			"SECRET_TOKEN",
+			"app"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -716,6 +748,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"UserSchema"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -726,8 +759,68 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "models/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1039,
+								1039
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controllers/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -770,7 +863,7 @@
 	"project": "api_express.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -808,7 +901,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 171.0,
+	"side_bar_width": 168.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
