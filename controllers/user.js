@@ -50,11 +50,9 @@ function signIn(req, res){
 }
 */
 
-function signIn(req, res){
-	console.log(req.body);
+function signIn(req, res){	
 	User.findOne({ email: req.body.email }, (err, user) => {
 	    if (err) return res.status(500).send({ msg: `Error al ingresar: ${err}` })
-	    console.log(user);
 	    if (!user) return res.status(404).send({ msg: `no existe el usuario: ${req.body.email}` })
 
 	    return user.comparePassword(req.body.password, (err, isMatch) => {
