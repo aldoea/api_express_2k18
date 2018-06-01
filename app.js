@@ -6,7 +6,7 @@ const hbs = require('express-handlebars');
 const app = express();
 const api = require('./routes');
 
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.engine('.hbs', hbs({
 	defaultLayout: 'default',

@@ -6,18 +6,27 @@
 </form>
 
 <script type="text/javascript">
-	const formLogin = document.querySelector('#login');
-	const formData = new FormData(formLogin);
+	const formLogin = document.querySelector('#login')
 
 	formLogin.addEventListener('submit', event => {
-		event.preventDefault();
-		fetch('/api/signin', {
-			method: 'POST',
-			body: formData
-		})
-		.then(res => res.json())
-		.then(data => {
-			localStorage.setItem('token', data.token);
-		})
+	  	event.preventDefault();
+		const formData = new FormData(formLogin)	
+	  	let object = {};
+	  	formData.forEach(function(value, key){
+	    	object[key] = value;
+	  	});
+	  	let json = JSON.stringify(object);
+	  	fetch('/api/signin', {
+	    	method: 'POST',
+	    	headers: {
+	    	    'Accept': 'application/json, text/plain, */*',
+	    	    'Content-Type': 'application/json'
+	    	},
+	    	body: json
+	  	})
+	  	.then(res => res.json())
+	  	.then(data => {	  	
+	    	localStorage.setItem('token', data.token)
+	  	})
 	})
 </script>
